@@ -1,2 +1,2 @@
 # NLP
-NLP 관련 지식들
+Natural Language Processing 관련 활동
